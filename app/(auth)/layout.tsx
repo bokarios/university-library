@@ -31,7 +31,7 @@ const layout = async ({
 				</div>
 			</section>
 
-			<section className="auth-illustration">
+			<section className="auth-illustration hidden md:block">
 				<Image
 					src="/images/auth-illustration.png"
 					alt="auth illustration"
